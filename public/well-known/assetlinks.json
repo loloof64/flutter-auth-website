@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.loloof64.dropbox_auth",
+            "sha256_cert_fingerprints": [
+                "9D:40:86:B9:AB:4E:49:86:94:43:07:87:A5:96:EF:D2:E7:D3:9A:87:0E:6D:75:A7:99:70:99:8B:3C:C4:5D:3F"
+            ]
+        }
+    }
+]
